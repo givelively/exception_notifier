@@ -1,8 +1,10 @@
-# This has been replaced by [gl_exception_notifier](https://github.com/givelively/gl_exception_notifier)
+# Use [gl_exception_notifier](https://github.com/givelively/gl_exception_notifier) (this gem's replacement)
 
-**This gem is deprecated** 
+**This gem is deprecated and replaced** 
 
 The repository has been left because some code references the github URL, but everything should be updated to use the GLExceptionNotifier gem.
+
+---
 
 # Exception Notifier
 
