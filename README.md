@@ -1,8 +1,8 @@
-**NOTE** This gem is deprecated
-
 # This has been replaced by [gl_exception_notifier](https://github.com/givelively/gl_exception_notifier)
 
-This repository has been left around because some code references the github URL, but everything should be updated to use the GLExceptionNotifier gem.
+**This gem is deprecated** 
+
+The repository has been left because some code references the github URL, but everything should be updated to use the GLExceptionNotifier gem.
 
 # Exception Notifier
 
