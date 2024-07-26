@@ -1,3 +1,9 @@
+**NOTE** This has been replaced
+
+# Use [gl_exception_notifier](https://github.com/givelively/gl_exception_notifier)
+
+This repository has been left around because some code references the github URL, but everything should be updated to use the GLExceptionNotifier gem.
+
 # Exception Notifier
 
 This is GiveLively's exception notification wrapper. The goal of this gem is to provide the charity api with a clean set of exception and logging apis regardless of what exception client is used under the hood. 
